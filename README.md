@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shaikhmq20
-- 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning ReactJS and React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android Development, Machine Learning and DBMS
+- 🌱 I’m currently learning React Native and Machine Learning
 
 <!---
 shaikhmq20/shaikhmq20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
