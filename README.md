@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikhmq20
-- 👀 I’m interested in Android Development, Machine Learning and DBMS
-- 🌱 I’m currently learning React Native and Machine Learning
+- 👀 I’m interested in Android Development and DBMS
+- 🌱 I’m currently learning React Native
 
 ![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhmq20&count_private=true&show_icons=true&theme=dracula)
 
